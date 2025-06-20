@@ -17,6 +17,7 @@ dependencies = [
   "asdf != 3.0.0",
   "requests",
   "parsley",
+  "packaging>20.0",
 ]
 dynamic = ["version"]
 
